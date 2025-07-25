@@ -14,6 +14,8 @@ print(colores)
 print("****************FRUTAS********************")
 frutas = ["Manzana","Pera","Mango","Piña","Coco","Uva","Naranja","Coco","Uva","Naranja"] #Esta es mi lista de frutas disponibles al inicio
 inventario={}
+print(inventario)
+
 for i in frutas:
     if i in inventario:
         inventario[i] = inventario[i] + 1
