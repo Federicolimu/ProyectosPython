@@ -15,5 +15,5 @@ CLONAR UN REPOSITORIO
 7. despues de esto en la terminal hacemos git init nuevamente
 8. despues hacemos git add .
 9. agregamos el commit: git commit -m "Agregar Readme"
-10. hacemos git push para sunbir los cambios:  git push -u origin main
-11. despues de esto abrimos git hbu y se deben de ver los cambios que hicimos
+10. hacemos git push para subir los cambios:  git push -u origin main
+11. despues de esto abrimos git hub y se deben de ver los cambios que hicimos
